@@ -3,3 +3,7 @@ san pham :Them Sua Xoa
 User:Them, xoa
 
 Bai viet : them, sua, xoa 
+
+Tao controller dieu huong
+Tao entity
+
